@@ -1,1 +1,1 @@
-# IE565_applied_data_science
+# IE565 - Applied Data Science
